@@ -1,6 +1,6 @@
 # Techin-lab5
 
-A simple web app to generate cover letter from the uploaded resume and entered job description using OpenAI API and Streamlit.  
+A simple web app to generate cover letter from the uploaded resume and entered job description using Gemini API and Streamlit.  
 
 ## How to Run
 Open the terminal and run the following commands:
@@ -19,7 +19,7 @@ Or just go the link : [Cover Letter Generator](https://techin-lab5-coverletterge
 
 ## Lessons Learned
 
-- How to make use OpenAi API's for a pre defined task.
+- How to make use Gemini API's for a pre defined task.
 - How to use chat box feature in streamlit.
 - How to create upload file feature in streamlit and do OCR of uploaded PDF file.
 
